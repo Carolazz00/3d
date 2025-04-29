@@ -25,7 +25,7 @@ function setup() {
 //
 
 function draw() {
-  background("blue");
+  background("DEEPPINK");
   orbitControl();
 
   let angle = 360 / columns;
